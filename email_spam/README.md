@@ -21,6 +21,7 @@ NIL
 SPAM> (add-directory-to-corpus "easy_ham/" 'ham *corpus*)
 NIL
 ```
+#### > all test data are from https://spamassassin.apache.org/old/publiccorpus/
 
 ## start with the training
 ```
